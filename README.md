@@ -2,7 +2,11 @@
 
 Application web (React + TypeScript) pour apprendre, réviser ses variantes et analyser son profil Lichess / Chess.com.
 
-## Lancer
+## En ligne
+
+https://tomado84.github.io/chess_appli/ (déployé automatiquement par GitHub Actions à chaque push sur `main`).
+
+## Lancer en local
 
 ```bash
 npm install
